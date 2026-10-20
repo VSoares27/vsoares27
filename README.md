@@ -37,4 +37,3 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/victor-sdev27)](www.linkedin.com/in/victor-sdev27)
-[![Gmail Badge](https://img.shields.io/badge/-victorsoares27306@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorsoares27306@gmail.com)](mailto:victorsoares27306@gmail.com)
